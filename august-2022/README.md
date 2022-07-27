@@ -15,7 +15,7 @@ Notes for what to include:
 3. AMAs are spinning up again! Include link to AMA.
 4. Fun things to do: #movie-nights, Sprig
 5. How assemble went (this gets done after Assemble, of course)
-6. 
+6. Fun puzzles!
 
 
 */
