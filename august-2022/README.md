@@ -37,11 +37,11 @@ This email is a 5-minute monthly rundown of what your fellow Hack Clubbers have 
 
 ### Four Fun July Ships 🚢
 
-![]()
+![](https://user-images.githubusercontent.com/38882631/185255273-bac75a55-8ef5-4c2f-b4cb-5265bc0c0c07.png)
 
-<img src="" width="16"> []()
+<img src="https://ca.slack-edge.com/T0266FRGM-U03AUPJQKLN-24c58425b85d-512" width="16"> Jaden made [Dino Explorer](https://dinoexplorer.hackclub.com/), his first ship! It let's you view multiple dinos at once instead of scrolling through the [hackclub/dinosaurs](https://github.com/hackclub/dinosaurs) repo. I asked Jaden what the motivation behind the [JavaScript project](https://github.com/InternetRamen/dino-explorer) was: _"I made dino explorer to see all the amaazing dinos at once :0"_
 
-↗️ [Check out ]()
+↗️ [Check out Dino Explorer](https://dinoexplorer.hackclub.com/)
 
 ---
 
