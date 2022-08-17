@@ -11,15 +11,13 @@ Notes for what to include:
   
   Encourage people to ship their stuff too.
   
-3. AMAs are spinning up again! Include link to AMA.
-5. How assemble went (this gets done after Assemble, of course)
+2. AMAs are spinning up again! Include link to AMA.
+3. How assemble went (this gets done after Assemble, of course)
 
 
 fun
 - draw a dino? https://github.com/hackclub/dinosaurs
 - local meet ups (#seattle . #boston, #bayarea, #portland)
-
-fun to do
 - #freewrite
 - #movie-nights
 - new sprig learning demo sprig.hackclub.com
