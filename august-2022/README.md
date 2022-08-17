@@ -74,7 +74,7 @@ Feel free to reach out to anyone here on Slack, and post updates about your own 
 
 Yes, I'm talking about Assemble. Or rather, Ian (14) and Sam (17) are:
 
-### <some catchy title for the hackathons grant>
+### TODO: Insert some catchy title for the hackathons grant>
 
 
 ### Fun things and trends
