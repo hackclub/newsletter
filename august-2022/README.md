@@ -55,11 +55,13 @@ This email is a 5-minute monthly rundown of what your fellow Hack Clubbers have 
 
 ---
 
-![]()
+![](https://user-images.githubusercontent.com/38882631/185265018-b364f4d9-6242-488b-bb50-f4b9deea7ebf.png)
 
-<img src="" width="16"> []()
+<img src="https://ca.slack-edge.com/T0266FRGM-U03K70BL2R3-45851de9d5d6-512" width="16"> [Japroz](https://japrozsaini.me/) made [arc](https://github.com/japrozs/arc), their own compiled programming language that uses LLVM! It even has smart error messages!
 
-↗️ [Check out ]()
+_"I wanted a high level language with a strong type system that compiles (zig does exactly that) but i wanted to implement my own compiled language"_ - Japroz
+
+↗️ [Check out arc](https://github.com/japrozs/arc)
 
 ---
 
