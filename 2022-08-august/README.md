@@ -85,7 +85,7 @@ At Assemble, <img src="https://ca.slack-edge.com/T0266FRGM-U0266FRGP-7f1bd1a815a
 
 
 
-### Random things to do while procrastinating:
+### Things to do while procrastinating on math homework:
 - Add your own Orpheus drawing (there are HUNDREDS!!): [github.com/hackclub/dinosaurs](https://github.com/hackclub/dinosaurs)
 - Grab some popcorn 🍿 and join [#movie-nights](https://hackclub.slack.com/archives/C025QEVNRPW) or share your barebones web creations 🕸 in [#freewrite](https://hackclub.slack.com/archives/C03TE1RLR7V)
 - Play around with a new demo game 🎮 and learn to build games in Sprig: [sprig.hackclub.dev](https://sprig.hackclub.dev)
