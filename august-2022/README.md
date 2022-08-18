@@ -57,20 +57,21 @@ This email is a 5-minute monthly rundown of what your fellow Hack Clubbers have 
 
 ![](https://user-images.githubusercontent.com/38882631/185265018-b364f4d9-6242-488b-bb50-f4b9deea7ebf.png)
 
-<img src="https://ca.slack-edge.com/T0266FRGM-U03K70BL2R3-45851de9d5d6-512" width="16"> [Japroz](https://japrozsaini.me/) made [arc](https://github.com/japrozs/arc), their own compiled programming language that uses LLVM! It even has smart error messages!
+<img src="https://ca.slack-edge.com/T0266FRGM-U03K70BL2R3-45851de9d5d6-512" width="16"> [Japroz](https://japrozsaini.me/) made [arc](https://github.com/japrozs/arc), their own **compiled** programming language that uses LLVM! It even has smart error messages!
 
-_"I wanted a high level language with a strong type system that compiles (zig does exactly that) but i wanted to implement my own compiled language"_ - Japroz
+_"I wanted a high level language with a strong type system that compiles (zig does exactly that) but i wanted to implement my own compiled language"_. Truly <img src="https://emoji.slack-edge.com/T0266FRGM/based/537b2120c51f688d.png" width="16">
 
 ↗️ [Check out arc](https://github.com/japrozs/arc)
 
 ---
 
-![]()
+![](https://user-images.githubusercontent.com/38882631/185265789-adc68bd8-d341-4473-b6e4-6181659f3174.png)
 
-<img src="" width="16"> []()
+<img src="https://ca.slack-edge.com/T0266FRGM-U03ME5R23CL-60b7b669a2e1-512" width="16"> [John](https://john-murphy-eth.vercel.app/) made [GuessThatRank](https://www.guessthatrank.com), a neat social game where you guess players' rank based on clips of gameplay and submit your own! When asked why he made GuessThatRank, John had a really relatable answer:
 
-↗️ [Check out ]()
+![](https://user-images.githubusercontent.com/38882631/185266313-95c9f7ec-21a6-433e-b551-338e05e54c73.png)
 
+↗️ [Check out GuessThatRank](https://www.guessthatrank.com)
 
 Feel free to reach out to anyone here on Slack, and post updates about your own projects in [#scrapbook](https://hackclub.slack.com/archives/C01504DCLVD). Let everyone know when you're done by posting it in [#ship](https://hackclub.slack.com/archives/C0M8PUPU6)!
 
