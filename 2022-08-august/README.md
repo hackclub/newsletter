@@ -75,7 +75,7 @@ Feel free to reach out to anyone here on Slack, and post updates about your own 
 
 ### Milkshakes, Stupid Sh*t Nobody Needs & A Rogue Dinosaur.
 
-Yes, I'm talking about Assemble. Or rather, <img src="https://ca.slack-edge.com/T0266FRGM-USNPNJXNX-1e9618bdeb92-512" width="16"> [Sam](https://sampoder.com) is:
+Yes, I'm talking about Assemble. Or rather, <img src="https://avatars.githubusercontent.com/u/39828164?v=4" width="16"> [Sam](https://sampoder.com) is:
 
 > How does one put fourty-two hours of chaos into a single paragraph? I'm going to give it a shot. On August 5th, 175 Hack Clubbers descended on Market Street in San Francisco for the first high school hackathon in San Francisco since the pandemic! Together, we built projects based on the prompt "Stupid Shit Nobody Needs", fought <img src="https://user-images.githubusercontent.com/38882631/185447991-cf6a6e84-585e-4f71-9546-fdf315e816ce.png" width="16"> The Organization, chugged down (potentially) dangerous amounts of caffeine, had a late-night disco and much more.
 >
