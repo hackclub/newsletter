@@ -39,17 +39,19 @@ This email is a 5-minute monthly rundown of what your fellow Hack Clubbers have 
 
 ![](https://user-images.githubusercontent.com/38882631/185255273-bac75a55-8ef5-4c2f-b4cb-5265bc0c0c07.png)
 
-<img src="https://ca.slack-edge.com/T0266FRGM-U03AUPJQKLN-24c58425b85d-512" width="16"> Jaden made [Dino Explorer](https://dinoexplorer.hackclub.com/), his first ship! It let's you view multiple dinos at once instead of scrolling through the [hackclub/dinosaurs](https://github.com/hackclub/dinosaurs) repo. I asked Jaden what the motivation behind the [JavaScript project](https://github.com/InternetRamen/dino-explorer) was: _"I made dino explorer to see all the amaazing dinos at once :0"_
+<img src="https://ca.slack-edge.com/T0266FRGM-U03AUPJQKLN-24c58425b85d-512" width="16"> [Jaden](https://jadenhou.me/) made [Dino Explorer](https://dinoexplorer.hackclub.com/), his first ship! It let's you view multiple dinos at once instead of scrolling through the [hackclub/dinosaurs](https://github.com/hackclub/dinosaurs) repo. I asked Jaden what the motivation behind the [JavaScript project](https://github.com/InternetRamen/dino-explorer) was: _"I made dino explorer to see all the amaazing dinos at once :0"_
 
 ↗️ [Check out Dino Explorer](https://dinoexplorer.hackclub.com/)
 
 ---
 
-![]()
+![](https://pbs.twimg.com/media/FY5XV4xUUAEsEHX?format=jpg&name=4096x4096)
 
-<img src="" width="16"> []()
+![](https://user-images.githubusercontent.com/38882631/185264183-09b967bc-efb1-4505-9f83-6513fe2d7aec.png)
 
-↗️ [Check out ]()
+<img src="https://ca.slack-edge.com/T0266FRGM-U018FMCP79R-e769e492c031-512" width="16"> [Aiden](https://aidenybai.com/) pushed an update to [Million.js](https://millionjs.org/), a lightweight Virtual DOM, that makes React 11 times faster <img src="https://emoji.slack-edge.com/T0266FRGM/ultrafastparrot/5148eb2f1db74d3b.gif" width="16">. Why? Because _"facebook is slow so lets make react fast"_ 
+
+↗️ [Check out Million.js](https://millionjs.org/)
 
 ---
 
