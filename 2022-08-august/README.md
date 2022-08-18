@@ -88,7 +88,7 @@ At Assemble, <img src="https://ca.slack-edge.com/T0266FRGM-U0266FRGP-7f1bd1a815a
 ### Things to do while procrastinating on math homework:
 - Add your own Orpheus drawing (there are HUNDREDS!!): [github.com/hackclub/dinosaurs](https://github.com/hackclub/dinosaurs)
 - Grab some popcorn 🍿 and join [#movie-nights](https://hackclub.slack.com/archives/C025QEVNRPW) or share your barebones web creations 🕸 in [#freewrite](https://hackclub.slack.com/archives/C03TE1RLR7V)
-- Play around with a new demo game 🎮 and learn to build games in Sprig: [sprig.hackclub.dev](https://sprig.hackclub.dev)
+- Play around with a new demo game 🎮 and learn to build games in [Sprig](https://sprig.hackclub.dev)
 - Join [#amas](https://hackclub.slack.com/archives/C03QPB0SU3V) and help <img src="https://ca.slack-edge.com/T0266FRGM-U03Q20XM953-91ae3b0d0243-512" width="16"> [Mark]() bring amazing guests to [Hack Club's AMAs](https://hackclub.com/amas) 😎
 - Do some good-old lurking 🕵️ and find out if there are other Hack Clubbers near you 📍! Hack Clubbers have been meeting up ([#bayarea](https://hackclub.slack.com/archives/C014M6C0CNA), [#seattle](https://hackclub.slack.com/archives/C023L02KGHZ), ++) and it looks like so much fun.
 
