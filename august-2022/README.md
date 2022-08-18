@@ -45,8 +45,6 @@ This email is a 5-minute monthly rundown of what your fellow Hack Clubbers have 
 
 ---
 
-![](https://pbs.twimg.com/media/FY5XV4xUUAEsEHX?format=jpg&name=4096x4096)
-
 ![](https://user-images.githubusercontent.com/38882631/185264183-09b967bc-efb1-4505-9f83-6513fe2d7aec.png)
 
 <img src="https://ca.slack-edge.com/T0266FRGM-U018FMCP79R-e769e492c031-512" width="16"> [Aiden](https://aidenybai.com/) pushed an update to [Million.js](https://millionjs.org/), a lightweight Virtual DOM, that makes React 11 times faster <img src="https://emoji.slack-edge.com/T0266FRGM/ultrafastparrot/5148eb2f1db74d3b.gif" width="16">. Why? Because _"facebook is slow so lets make react fast"_ 
