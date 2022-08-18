@@ -65,7 +65,9 @@ _"I wanted a high level language with a strong type system that compiles (zig do
 
 ![](https://user-images.githubusercontent.com/38882631/185265789-adc68bd8-d341-4473-b6e4-6181659f3174.png)
 
-<img src="https://ca.slack-edge.com/T0266FRGM-U03ME5R23CL-60b7b669a2e1-512" width="16"> [John](https://john-murphy-eth.vercel.app/) made [GuessThatRank](https://www.guessthatrank.com), a neat social game where you guess players' rank based on clips of gameplay and submit your own! When asked why he made GuessThatRank, John had a really relatable answer:
+<img src="https://ca.slack-edge.com/T0266FRGM-U03ME5R23CL-60b7b669a2e1-512" width="16"> [John](https://john-murphy-eth.vercel.app/) made [GuessThatRank](https://www.guessthatrank.com), a neat social game where you guess players' rank based on clips of gameplay and submit your own! It just hit 500 users 🎉. You can find the code (mostly TypeScript) [on GitHub](https://github.com/jmurphy5613/guess-that-rank).
+
+When asked why he made GuessThatRank, John had a really relatable answer:
 
 ![](https://user-images.githubusercontent.com/38882631/185266313-95c9f7ec-21a6-433e-b551-338e05e54c73.png)
 
