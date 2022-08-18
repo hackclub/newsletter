@@ -73,9 +73,11 @@ _"I wanted a high level language with a strong type system that compiles (zig do
 
 Feel free to reach out to anyone here on Slack, and post updates about your own projects in [#scrapbook](https://hackclub.slack.com/archives/C01504DCLVD). Let everyone know when you're done by posting it in [#ship](https://hackclub.slack.com/archives/C0M8PUPU6)!
 
-### What has milkshakes, projects no one needs and Sam in a dinosaur costume? :eyes:
+### Milkshakes, Stupid Shit Nobody Needs & A Rouge Dinosaur.
 
 Yes, I'm talking about Assemble. Or rather, Ian (14) and Sam (17) are:
+
+How does one put fourty-two hours of chaos into a single paragraph? I'm going to give it a shot. On August 5th, 175 Hack Clubbers descended on Market Street in San Francisco for the first high school hackathon in San Francisco since the pandemic! Together, we built projects based on the prompt "Stupid Shit Nobody Needs", ate way too ice-cream, chugged down (potentially) dangerous amounts of caffinee, had a late-night disco and much more. The highlight for me, however, was getting the chance to meet so many Hack Clubbers! We had folks from 12 different countries and 20+ US states, each of them incredibly special individuals who I wish I could have spent hours more talking to. Words really can't describe the magical atmosphere that took over Figma's office that weekend, I'd recommend checking out our [collaborative photo album](https://hack.af/assemble-album), [everyone's projects on Scrapbook](https://scrapbook.assemble.hackclub.com) and [@arianna's vlog of the entire event](https://hackclub.slack.com/archives/C0M8PUPU6/p1660786162270309). Lastly, as you'll hear more about in a bit, we want this to be a special semester of high school hackathons and reestablish the culture around them being IRL. As part of that we're open sourcing every part of Assemble: 
 
 ### TODO: Insert some catchy title for the hackathons grant>
 
