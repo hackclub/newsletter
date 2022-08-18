@@ -78,11 +78,19 @@ Feel free to reach out to anyone here on Slack, and post updates about your own 
 Yes, I'm talking about Assemble. Or rather, Ian (14) and Sam (17) are:
 
 ### TODO: Insert some catchy title for the hackathons grant>
+![You get $500, Oprah meme](https://cloud-ncs2ypbyu-hack-club-bot.vercel.app/06qcy84.jpeg)
 
 
-### Fun things and trends
+At Assemble, Zach announced that Hack Club and FIRST are offering a $500 grant to high-school hackathons hosted before the end of 2022. It's now accepting applications! All you need is a high-school team, secured venue, and custom website to apply.
 
-TODO
+
+
+### Random things to do while procrastinating:
+- Scroll through Orpheus drawings (there are HUNDREDS!!): [github.com/hackclub/dinosaurs](https://github.com/hackclub/dinosaurs)
+- Grab a popcorn 🍿and join [#movie-nights](https://hackclub.slack.com/archives/C025QEVNRPW) or share your barebone web creations 🕸 in [#freewrite](https://hackclub.slack.com/archives/C03TE1RLR7V)
+- Play around with a new demo game 🎮 and learn to build games in Sprig: [sprig.hackclub.dev](https://sprig.hackclub.dev)
+- Join #amas and help bring super cool people  to Hack Club 🦄
+- Do some good-old lurking 🕵️ and find out if there are other Hack Clubbers in your local area 📍! Hack Clubbers have been meeting up ([#bayarea](https://hackclub.slack.com/archives/C014M6C0CNA), [#seattle](https://hackclub.slack.com/archives/C023L02KGHZ), ++) and it looks like so much fun.
 
 \
 Thanks for reading this email! You can help create the next issue [here](https://github.com/hackclub/newsletter). _(using a pull request!)_
@@ -93,7 +101,8 @@ _Ishan_
 _(like in all Hack Club emails, we respect your privacy and don't track whether you open this email or click links in it. if you'd like to unsubscribe, click [here]())_
 
 \
-_PS: TODO_
+Ps. So many profiles are now either neon (thanks Dall-e) or photo portraits which is super cool! Also, apparently people are now sending letters?
+![Caleb’s letter to slack](https://cloud-64v8eu33n-hack-club-bot.vercel.app/0img_20220810_223037309__1_.jpg)
 
 ![]()
 
