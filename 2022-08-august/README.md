@@ -77,15 +77,22 @@ Feel free to reach out to anyone here on Slack, and post updates about your own 
 
 Yes, I'm talking about Assemble. Or rather, <img src="https://avatars.githubusercontent.com/u/39828164?v=4" width="16"> [Sam](https://sampoder.com) is:
 
-> How does one put fourty-two hours of chaos into a couple of sentences? I'm going to give it a shot. On August 5th, 175 Hack Clubbers descended on Market Street in San Francisco for the first high school hackathon in San Francisco since the pandemic! Together, we built projects based on the prompt "Stupid Shit Nobody Needs", fought <img src="https://user-images.githubusercontent.com/38882631/185447991-cf6a6e84-585e-4f71-9546-fdf315e816ce.png" width="16"> The Organization, chugged down (potentially) dangerous amounts of caffeine, had a late-night disco and much more.
->
-> ![](https://pbs.twimg.com/media/FZmP59CVEAEvynl?format=jpg&name=4096x4096)
->
-> The highlight for me, however, was getting the chance to meet so many Hack Clubbers! We had folks from 12 different countries and 20+ US states, each of them incredibly special individuals who I wish I could have spent hours more talking to. Words really can't describe the magical atmosphere that took over Figma's office that weekend. 
->
->![](https://pbs.twimg.com/media/FZfM1E-UEAEF1qw?format=jpg&name=large)
->
-> I'd recommend checking out our [collaborative photo album](https://hack.af/assemble-album), [everyone's projects on Scrapbook](https://scrapbook.assemble.hackclub.com) and [@arianna's vlog of the entire event](https://hackclub.slack.com/archives/C0M8PUPU6/p1660786162270309). Lastly, as you'll hear more about in a bit, we want this to be a special semester of high school hackathons and reestablish the culture around them being IRL. **As part of that we're open sourcing every part of Assemble: [github.com/hackclub/assemble](https://github.com/hackclub/assemble).**
+<ul>
+How does one put fourty-two hours of chaos into a couple of sentences? I'm going to give it a shot. On August 5th, 175 Hack Clubbers descended on Market Street in San Francisco for the first high school hackathon in San Francisco since the pandemic! Together, we built projects based on the prompt "Stupid Shit Nobody Needs", fought <img src="https://user-images.githubusercontent.com/38882631/185447991-cf6a6e84-585e-4f71-9546-fdf315e816ce.png" width="16"> The Organization, chugged down (potentially) dangerous amounts of caffeine, had a late-night disco and much more.
+
+![](https://pbs.twimg.com/media/FZmP59CVEAEvynl?format=jpg&name=4096x4096)
+
+The highlight for me, however, was getting the chance to meet so many Hack Clubbers! We had folks from 12 different countries and 20+ US states, each of them incredibly special individuals who I wish I could have spent hours more talking to. Words really can't describe the magical atmosphere that took over Figma's office that weekend. 
+
+![](https://pbs.twimg.com/media/FZfM1E-UEAEF1qw?format=jpg&name=large)
+
+I'd recommend checking out our [collaborative photo album](https://hack.af/assemble-album), [everyone's projects on Scrapbook](https://scrapbook.assemble.hackclub.com) and <img src="https://ca.slack-edge.com/T0266FRGM-U012U7V5W22-a83fd46e92f2-512" width="16"> [Arianna's vlog of the entire event](https://hackclub.slack.com/archives/C0M8PUPU6/p1660786162270309). Lastly, as you'll hear more about in a bit, we want this to be a special semester of high school hackathons and re-establish the culture around them being IRL. 
+
+**As part of that we're open sourcing every part of Assemble: [github.com/hackclub/assemble](https://github.com/hackclub/assemble)!**
+
+_- Sam Poder_
+
+</ul>
 
 ### TODO: Insert some catchy title for the hackathons grant>
 
