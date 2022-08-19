@@ -69,7 +69,7 @@ _"I wanted a high level language with a strong type system that compiles (zig do
 
 When asked why he made GuessThatRank, John had a really relatable answer:
 
-![](https://user-images.githubusercontent.com/38882631/185266313-95c9f7ec-21a6-433e-b551-338e05e54c73.png)
+<img src="https://user-images.githubusercontent.com/38882631/185266313-95c9f7ec-21a6-433e-b551-338e05e54c73.png" width="300">
 
 ↗️ [Check out GuessThatRank](https://www.guessthatrank.com)
 
