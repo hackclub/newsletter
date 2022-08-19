@@ -1,3 +1,3 @@
-# Hack Club Newsletter*
+# (not) Hacker News
 
-###### *Name WIP, got a cool idea? Send in a PR!
+###### Credit name to @reesericci
