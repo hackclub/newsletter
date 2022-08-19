@@ -88,7 +88,7 @@ The highlight for me, however, was getting the chance to meet so many Hack Clubb
 
 I'd recommend checking out our 📸 [collaborative photo album](https://hack.af/assemble-album), 🚢 [everyone's projects on Scrapbook](https://scrapbook.assemble.hackclub.com) and <img src="https://ca.slack-edge.com/T0266FRGM-U012U7V5W22-a83fd46e92f2-512" width="16"> [Arianna's vlog of the entire event](https://hackclub.slack.com/archives/C0M8PUPU6/p1660786162270309). 
 
-**Last but not least, many of you all might be interested in running your own hackathons, so we're open sourcing every part of Assemble to show you behind the curtains: [github.com/hackclub/assemble](https://github.com/hackclub/assemble)!**
+Last but not least, **we're open sourcing every part of Assemble: [github.com/hackclub/assemble](https://github.com/hackclub/assemble)!**
 
 _- Sam Poder_
 
