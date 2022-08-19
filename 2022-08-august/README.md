@@ -9,7 +9,7 @@ This email is a 5-minute monthly rundown of what your fellow Hack Clubbers have 
 ![](https://user-images.githubusercontent.com/38882631/185519156-9f0eb886-8dad-402d-a989-68e028f602b0.png)
 
 
-<img src="https://ca.slack-edge.com/T0266FRGM-U026XSMKEDC-a471d7e9c871-512" width="16"> [Maggie](https://maggieliu.dev) shipped [Replbio](https://replit.com/@MaggieLiu1/replbio?v=1), an easy way to make one of those fancy bio pages you've seen on the net: you just define your name, profile picture, and social links in JSON, and it gets hosted on Replit, complete with a guestbook 😮!! Check out Maggie's own bio page here: [replbio.maggieliu1.repl.co](https://replbio.maggieliu1.repl.co). I asked her how she got the idea for Replbio: _"Glitch has a cool glitch-in-bio project, so i thought it would be fun to make one that worked on Replit and add more features!"_
+<img src="https://ca.slack-edge.com/T0266FRGM-U026XSMKEDC-a471d7e9c871-512" width="16"> [Maggie](https://maggieliu.dev) shipped [Replbio](https://replit.com/@MaggieLiu1/replbio?v=1), an easy way to make one of those fancy bio pages you've seen on the net: you just define your name, profile picture, and social links in JSON, and it gets hosted on Replit, complete with a guestbook 😮!! Check out Maggie's [own bio page here](https://replbio.maggieliu1.repl.co). I asked her how she got the idea for Replbio: _"Glitch has a cool glitch-in-bio project, so i thought it would be fun to make one that worked on Replit and add more features!"_
 
 ↗️ [Check out Replbio](https://replit.com/@MaggieLiu1/replbio?v=1)
 
