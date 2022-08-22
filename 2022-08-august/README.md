@@ -78,7 +78,7 @@ _- Sam Poder_
 ![You get $500, Oprah meme](https://cloud-ncs2ypbyu-hack-club-bot.vercel.app/06qcy84.jpeg)
 
 
-At Assemble, <img src="https://ca.slack-edge.com/T0266FRGM-U0266FRGP-7f1bd1a815ac-512" width="16"> [Zach](https://zachlatta.com/) announced that [Hack Club and FIRST are offering a **✨ $500 grant ✨**](https://hackclub.com/hackathons/) to in-person high-school hackathons hosted before the end of 2022!!! All you need for the grant is a high-school team, a venue, and a custom website, and you get free tools and support too. Learn more at [hackclub.com/hackathons](https://hackclub.com/hackathons) and [APPLY HERE!](https://airtable.com/shrpYdJpAOphEWXan)
+At Assemble, <img src="https://ca.slack-edge.com/T0266FRGM-U0266FRGP-7f1bd1a815ac-512" width="16"> [Zach](https://zachlatta.com/) announced that [Hack Club and FIRST are offering a **✨ $500 grant ✨**](https://hackclub.com/hackathons/grant) to in-person high-school hackathons hosted before the end of 2022!!! All you need for the grant is a high-school team, a venue, and a custom website, and you get free tools and support too. Learn more at [hackclub.com/hackathons/grant](https://hackclub.com/hackathons/grant) and [APPLY HERE!](https://hackclub.slack.com/archives/C03TS0VKFPZ)
 
 
 ### Things to do while procrastinating on math homework:
