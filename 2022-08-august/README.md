@@ -74,7 +74,16 @@ _- Sam Poder_
 
 </ul>
 
-### TODO: Insert some catchy title for the hackathons grant>
+### Granting wishes for IRL hackathons on Hack Club Bank
+
+This semester, Hack Club & FIRST are teaming up to kickstart IRL hackathons by offering a $500 grant to events on Bank!
+As long as your hackathon is run by high schoolers, have a venue secured, use a handmade website (no builders), and is happening before **December 31, 2022**, you qualify!
+
+This semester, run an in-person hackathon and rekindle the programmer spirit, now with the support of Hack Club & FIRST!
+
+
+↗️ [Learn more & apply for the grant!]
+
 
 
 ### Fun things and trends
