@@ -84,16 +84,13 @@ Yes, I'm talking about Assemble. Or rather, Ian (14) and Sam (17) are:
 At Assemble, <img src="https://ca.slack-edge.com/T0266FRGM-U0266FRGP-7f1bd1a815ac-512" width="16"> [Zach](https://zachlatta.com/) announced that [Hack Club and FIRST are offering a **✨ $500 grant ✨**](https://hackclub.com/hackathons/) to in-person high-school hackathons hosted before the end of 2022!!! All you need for the grant is a high-school team, a venue, and a custom website, and you get free tools and support too. Learn more at [hackclub.com/hackathons](https://hackclub.com/hackathons) and [APPLY HERE!](https://airtable.com/shrpYdJpAOphEWXan)
 
 
-
 ### Things to do while procrastinating on math homework:
-- Add your own Orpheus drawing (there are HUNDREDS!!): [github.com/hackclub/dinosaurs](https://github.com/hackclub/dinosaurs)
-- Grab some popcorn 🍿 to join [#movie-nights](https://hackclub.slack.com/archives/C025QEVNRPW), find a quick laugh at [#memes](https://hackclub.slack.com/archives/CB19EP4MC), explore the Hack Club Slack [#hall-of-fame](https://hackclub.slack.com/archives/C028VGT0JMQ), or meet other Hack Clubbers on [#hack-night](https://hackclub.com/night/)
-- Code something small and special in html, css, and/or js (no frameworks) and share it with the community through [freewrite](https://hackclub.slack.com/archives/C03TE1RLR7V/p1660684775476709)
+- Add your own <img src="https://emoji.slack-edge.com/T0266FRGM/orpheus-eating-chair/ab57effc3d9aa555.png" width="16">[Orpheus](https://workshops.hackclub.com/orpheus/) drawing (there are HUNDREDS!!): [github.com/hackclub/dinosaurs](https://github.com/hackclub/dinosaurs)
+- Meet other Hack Clubbers (via <img src="https://emoji.slack-edge.com/T0266FRGM/zoom/a255d334a3e6e4e8.png" width="16"> Zoom) on <img src="https://cloud-9pj8ga86m.vercel.app/2020-07-24_zdd8ycnkp9q0bbf1fj8a1amjv3zndufz.png" width="16"> [#hack-night](https://hackclub.com/night/) grab some popcorn to join 🎞 [#movie-nights](https://hackclub.slack.com/archives/C025QEVNRPW), find a quick laugh at <img src="https://emoji.slack-edge.com/T0266FRGM/mememan/169c4a69b4524895.png" width="16"> [#memes](https://hackclub.slack.com/archives/CB19EP4MC), or explore the best messages of [Hack Club Slack](https://hackclub.com/slac) in 🏆 [#hall-of-fame](https://hackclub.slack.com/archives/C028VGT0JMQ).
+- Code something small and special in HTML, CSS, and/or JS (no frameworks) and share it with other Hack Clubbers through 🕸[#freewrite](https://hackclub.slack.com/archives/C03TE1RLR7V/p1660684775476709)!
 - Play games 🎮 made by fellow Hack Clubbers (or code your own) using Sprig, a beginner-friendly game engine: [Sprig Gallery](https://sprig-gallery.hackclub.dev/)
 - Join [#amas](https://hackclub.slack.com/archives/C03QPB0SU3V) and help <img src="https://ca.slack-edge.com/T0266FRGM-U03Q20XM953-91ae3b0d0243-512" width="16"> [Mark](https://www.youtube.com/watch?v=dQw4w9WgXcQ) bring amazing guests to [Hack Club's AMAs](https://hackclub.com/amas) 😎
-- Do some good-old lurking 🕵️ and find out if there are other Hack Clubbers near you 📍! Hack Clubbers have been meeting up ([#bayarea](https://hackclub.slack.com/archives/C014M6C0CNA), [#seattle](https://hackclub.slack.com/archives/C023L02KGHZ), [and more](https://hackclub.slack.com/archives/C03L35R822Y/p1660101850115939)) and it looks like so much fun.
-
-![Cool orpheus](https://cloud-9pj8ga86m.vercel.app/2020-07-24_zdd8ycnkp9q0bbf1fj8a1amjv3zndufz.png)
+- Do some good-old lurking 🕵️ and find out if there are other Hack Clubbers near you 📍! Hack Clubbers have been meeting up ([#bayarea](https://hackclub.slack.com/archives/C014M6C0CNA), [#seattle](https://hackclub.slack.com/archives/C023L02KGHZ), [#boston](https://hackclub.slack.com/archives/C02A1MS6TD4), [#] [and more](https://hackclub.slack.com/archives/C03L35R822Y/p1660101850115939)) and it looks like so much fun.
 
 Thanks for reading this email! You can help create the next issue [here](https://github.com/hackclub/newsletter). _(using a pull request!)_
 
