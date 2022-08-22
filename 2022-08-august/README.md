@@ -89,9 +89,9 @@ At Assemble, <img src="https://ca.slack-edge.com/T0266FRGM-U0266FRGP-7f1bd1a815a
 - Add your own Orpheus drawing (there are HUNDREDS!!): [github.com/hackclub/dinosaurs](https://github.com/hackclub/dinosaurs)
 - Grab some popcorn 🍿 to join [#movie-nights](https://hackclub.slack.com/archives/C025QEVNRPW), find a quick laugh at [#memes](https://hackclub.slack.com/archives/CB19EP4MC), explore the Hack Club Slack [#hall-of-fame](https://hackclub.slack.com/archives/C028VGT0JMQ), or meet other Hack Clubbers on [#hack-night](https://hackclub.com/night/)
 - Code something small and special in html, css, and/or js (no frameworks) and share it with the community through [freewrite](https://hackclub.slack.com/archives/C03TE1RLR7V/p1660684775476709)
-- Play (or code your own) games 🎮 made by fellow Hack Clubbers using Sprig, a beginner-friendly game engine: [Sprig Gallery](https://sprig-gallery.hackclub.dev/)
-- Join [#amas](https://hackclub.slack.com/archives/C03QPB0SU3V) and help <img src="https://ca.slack-edge.com/T0266FRGM-U03Q20XM953-91ae3b0d0243-512" width="16"> [Mark]() bring amazing guests to [Hack Club's AMAs](https://hackclub.com/amas) 😎
-- Do some good-old lurking 🕵️ and find out if there are other Hack Clubbers near you 📍! Hack Clubbers have been meeting up ([#bayarea](https://hackclub.slack.com/archives/C014M6C0CNA), [#seattle](https://hackclub.slack.com/archives/C023L02KGHZ), ++) and it looks like so much fun.
+- Play games 🎮 made by fellow Hack Clubbers (or code your own) using Sprig, a beginner-friendly game engine: [Sprig Gallery](https://sprig-gallery.hackclub.dev/)
+- Join [#amas](https://hackclub.slack.com/archives/C03QPB0SU3V) and help <img src="https://ca.slack-edge.com/T0266FRGM-U03Q20XM953-91ae3b0d0243-512" width="16"> [Mark](https://www.youtube.com/watch?v=dQw4w9WgXcQ) bring amazing guests to [Hack Club's AMAs](https://hackclub.com/amas) 😎
+- Do some good-old lurking 🕵️ and find out if there are other Hack Clubbers near you 📍! Hack Clubbers have been meeting up ([#bayarea](https://hackclub.slack.com/archives/C014M6C0CNA), [#seattle](https://hackclub.slack.com/archives/C023L02KGHZ), [and more](https://hackclub.slack.com/archives/C03L35R822Y/p1660101850115939)) and it looks like so much fun.
 
 ![Cool orpheus](https://cloud-9pj8ga86m.vercel.app/2020-07-24_zdd8ycnkp9q0bbf1fj8a1amjv3zndufz.png)
 
