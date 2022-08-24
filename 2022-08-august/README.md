@@ -74,6 +74,9 @@ _- Sam Poder_
 
 </ul>
 
+![image](https://user-images.githubusercontent.com/38882631/186508282-b6105a71-ce3a-4c4c-b26e-2b4615f80223.png)
+
+
 ### 💸 Grants!!! For your hackathon!!! 💸
 ![You get $500, Oprah meme](https://cloud-ncs2ypbyu-hack-club-bot.vercel.app/06qcy84.jpeg)
 
