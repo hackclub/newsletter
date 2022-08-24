@@ -98,7 +98,7 @@ Ishan
 
 _(like in all Hack Club emails, we respect your privacy and don't track whether you open this email or click links in it. if you'd like to unsubscribe, click [here]())_
 
-
+\
 _PS. So many trends are going 'round [the Slack](https://hackclub.com/slack)! We remember the super-cool neon profile picture fad (thanks DALL-E): <img src="https://ca.slack-edge.com/T0266FRGM-U026XSMKEDC-a471d7e9c871-512" width="16"> <img src="https://ca.slack-edge.com/T0266FRGM-U03NJ5A39B7-93ab7d36c27f-512" width="16"> <img src="https://ca.slack-edge.com/T0266FRGM-U01VDAQB99P-fec41f1b6433-512" width="16"> <img src="https://ca.slack-edge.com/T0266FRGM-U01D9DWGEB0-ac34abb469a9-512" width="16"> <img src="https://ca.slack-edge.com/T0266FRGM-U02KEJ8T6D8-e938b61d1f15-512" width="16">. You can get your own ⚡️ _neon_ ⚡️PFP in [#neon](https://hackclub.slack.com/archives/C03RFCGGEQH)._
 
 _Also, apparently Hack Clubbers now send each other letters?_
