@@ -83,6 +83,10 @@ _- Sam Poder_
 
 At Assemble, <img src="https://ca.slack-edge.com/T0266FRGM-U0266FRGP-7f1bd1a815ac-512" width="16"> [Zach](https://zachlatta.com/) announced that [Hack Club and FIRST are offering a **✨ $500 grant ✨**](https://hackclub.com/hackathons/grant) to in-person high-school hackathons hosted before the end of 2022!!! All you need for the grant is a high-school team, a venue, and a custom website, and you get free tools and support too. Learn more at [hackclub.com/hackathons/grant](https://hackclub.com/hackathons/grant) and [APPLY HERE!](https://hackclub.slack.com/archives/C03TS0VKFPZ)
 
+Here's what <img src="https://ca.slack-edge.com/T0266FRGM-U026XSMKEDC-a471d7e9c871-512" width="16"> [Maggie](https://maggieliu.dev)'s going to do with her grant:
+> I’m running [Leland Hacks](https://lelandhacks.com/), an in-person hackathon in the Bay Area, and we got the grant :money_with_wings: after applying through the awesome [grant dino slack bot](https://github.com/hackclub/grant-dino). We’re planning to spend the money on making Leland Hacks even more special, with swag and boba <img src="https://user-images.githubusercontent.com/38882631/186511631-aadb9ee0-f4cb-4cf1-b5b1-314dfc7d83a1.png" width="16">!
+
+
 
 ### Things to do while procrastinating on math homework:
 
