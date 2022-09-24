@@ -4,7 +4,7 @@ Hey friends!
 
 [Sam](https://github.com/sampoder), Hack Clubber from Singapore, here. It's been a busy couple of weeks in the Hack Club community, I wanted to email all of you with a rundown of what your fellow Hack Clubbers have been up to this past month! 
 
-_(FYI: you're receiving this email because you're in the Hack Club Slack.)_
+_(FYI: you're receiving this email because you're in [the Hack Club Slack](https://hackclub.com/slack).)_
 
 ## 🎒 Hacking The Back To School
 
@@ -12,7 +12,7 @@ This month, it's been back to school for Hack Clubbers. That's meant the return 
 
 <img src="https://user-images.githubusercontent.com/39828164/192078880-2cbc6379-c30b-48e9-8ad3-67fb687069fa.jpg" width="300px" />
 
-_(what a turnout that is in Silver Spring, MD! Nice work Linkai & Tinu!)_
+What a turnout that is in Silver Spring, MD! Nice work Linkai & Tinu! It's fabulous seeing clubs, new & old, drawing such large crowds at their schools. My school's club is about to kick off for the year and I'm excited to get back to making something new every Monday lunch break! 
 
 To prepare for the new school year, clubs have been busy shipping new websites for themselves. It's always interesting to see each leader's unique take on what a Hack Club is and how they pitch it to prospective members. Here are a couple of my favourites:
 
@@ -26,41 +26,42 @@ To prepare for the new school year, clubs have been busy shipping new websites f
 
 <img width="600" alt="Screenshot 2022-09-24 at 10 21 24 PM" src="https://user-images.githubusercontent.com/39828164/192103074-d587bb59-9110-4371-b0cb-8be2cc514644.png">
 
-[Pomperaug Hack Club (Southbury, CT)](https://pomperaug.hackclub.com) - website built by @Neesh Kancharla! I really love how they've used the Welcome to Hack Club video on there. Their site has also just the right amount of sarcasm for my liking, nice one Neesh.
+[Pomperaug Hack Club (Southbury, CT)](https://pomperaug.hackclub.com) - website built by @Neesh Kancharla! I really love how they've used the ["Welcome to Hack Club" video](https://www.youtube.com/watch?v=-sxRdKtKNa0) on there. Their site has also just the right amount of sarcasm for my liking, nice one Neesh.
 
-My school's club is about to kick off for the year and I'm excited to get back to making something new every Monday lunch break! 
+If you've built a website for your club (or just built anything in general!) recently, don't forget to [#ship](https://hackclub.slack.com/archives/C0M8PUPU6) it on [Slack](https://hackclub.com/slack). It's always so much fun seeing what fellow Hack Clubbers build!
 
 ## 🍃 Sprig Takes Off
 
-The big news of the month from HQ was the release of Sprig, a handheld gaming console where every player is a creator! This semester, 430 consoles are going to be manufactured & shipped out to Hack Clubbers who make games.
+The big news of the month from HQ was the release of [Sprig](https://sprig.hackclub.com), a handheld gaming console where every player is a creator! This semester, 430 consoles are going to be manufactured & shipped out to Hack Clubbers who make games.
 
 <img src="https://sprig.hackclub.com/stories-tiny/sprig-front.jpeg" width="600px" />
 
 Want one? (I certainly do!) You can get a Sprig in 3 steps:
 
-:video_game: Build a Sprig game in the online JavaScript game editor
+:video_game: Build a Sprig game in [the online JavaScript game editor](https://editor.sprig.hackclub.com).
 
-:pullrequest: Make a pull request to add your game to the Sprig gallery in the GitHub repository
+🔀 Make a pull request to add your game to the Sprig gallery in [the GitHub repository](https://github.com/hackclub/sprig)
 
 :mailbox: Once your PR is merged, get a Sprig kit in your mailbox
 
-It's been so special seeing the Hack Club community banding together to create games on Sprig. On our recent Sprig Jam, I tried my hand at building my own game called The Reactor. The games that everyone's been coming up with are incredible:
+It's been so special seeing the Hack Club community banding together to create games on Sprig. On our recent Sprig Jam, I tried my hand at building my own game called [The Reactor](https://editor.sprig.hackclub.com/?file=https://raw.githubusercontent.com/hackclub/sprig/main/games/reactor.js). Everyone in [#sprig](https://hackclub.slack.com/archives/C02UN35M7LG) was so wonderfully kind & helpful as I made my way through the process. 
+
+The games that everyone's been shipping & submitting are incredible, here's a small selection from [the Gallery](https://sprig.hackclub.com/gallery):
 
 | | | |
 |---|---|---|
-| ![sprig hackclub com_gallery](https://user-images.githubusercontent.com/39828164/192105424-51eb7598-8793-4721-9c1b-bee17c89d829.png) | ![sprig hackclub com_gallery (10)](https://user-images.githubusercontent.com/39828164/192105727-f4e28900-c675-4706-9b83-a340b7a1bf17.png) | ![sprig hackclub com_gallery (7)](https://user-images.githubusercontent.com/39828164/192105645-3f8f2803-6008-4d9c-bf0f-33ed4ab28a54.png)|
-| ![sprig hackclub com_gallery (9)](https://user-images.githubusercontent.com/39828164/192105672-146a60a1-e36c-46b7-afd5-46a5ce407d8d.png) | ![sprig hackclub com_gallery (4)](https://user-images.githubusercontent.com/39828164/192105553-cc3850ad-4a03-409c-b08a-483729520357.png) | ![sprig hackclub com_gallery (5)](https://user-images.githubusercontent.com/39828164/192105556-f98f5b41-48d1-4a14-ae94-712845abc7f1.png)|
+| [![sprig hackclub com_gallery](https://user-images.githubusercontent.com/39828164/192105424-51eb7598-8793-4721-9c1b-bee17c89d829.png)](https://editor.sprig.hackclub.com/?file=https://raw.githubusercontent.com/hackclub/sprig/main/games/kindless.js) | [![sprig hackclub com_gallery (10)](https://user-images.githubusercontent.com/39828164/192105727-f4e28900-c675-4706-9b83-a340b7a1bf17.png)](https://editor.sprig.hackclub.com/?file=https://raw.githubusercontent.com/hackclub/sprig/main/games/raycasting.js) | [![sprig hackclub com_gallery (7)](https://user-images.githubusercontent.com/39828164/192105645-3f8f2803-6008-4d9c-bf0f-33ed4ab28a54.png)](https://editor.sprig.hackclub.com/?file=https://raw.githubusercontent.com/hackclub/sprig/main/games/nomis.js)|
+| [![sprig hackclub com_gallery (9)](https://user-images.githubusercontent.com/39828164/192105672-146a60a1-e36c-46b7-afd5-46a5ce407d8d.png)](https://editor.sprig.hackclub.com/?file=https://raw.githubusercontent.com/hackclub/sprig/main/games/friendship.js) | [![sprig hackclub com_gallery (4)](https://user-images.githubusercontent.com/39828164/192105553-cc3850ad-4a03-409c-b08a-483729520357.png)](https://editor.sprig.hackclub.com/?file=https://raw.githubusercontent.com/hackclub/sprig/main/games/minesweeper.js) | [![sprig hackclub com_gallery (5)](https://user-images.githubusercontent.com/39828164/192105556-f98f5b41-48d1-4a14-ae94-712845abc7f1.png)](https://editor.sprig.hackclub.com/?file=https://raw.githubusercontent.com/hackclub/sprig/main/games/multiplayer_soccer.js)|
 
-
-Sprig's are going to start being shipped to everyone who makes a game in October, I'm looking forward to gettting mine & playing all these games on the console itself!
+Sprigs are going to start shipping in October, I'm looking forward to recieving mine, assembling it & playing all these games on the console itself! In the meantime, I've heard whispers of seeds coming in the mail 👀
 
 ## ✨ The Return of IRL Hackathons 
 
-Personally, what excites me the most in Hack Club right now is the return of IRL high-school hackathons! Hackathons are a big part of how I got into programming and seeing them return in-person is incredible. Last week, for example, @Maggie hosted LelandHacks:
+Personally, what excites me the most in Hack Club right now is the return of IRL [high-school hackathons](https://hackclub.com/hackathons)! Hackathons are a big part of how I got into programming and seeing them return in-person is incredible. Last week, for example, @maggie hosted Leland Hacks:
 
 <img src="https://user-images.githubusercontent.com/39828164/192079156-7075dcec-67d2-4db2-ab7c-f4bb9151edcd.jpg" width="600px" />
 
-_(Maggie made some of the most incredible swag designs for LelandHacks! No wonder everyone's swarming the swag table.)_
+_(@maggie made some of [the most incredible swag designs](https://scrapbook.hackclub.com/maggie) for Leland Hacks! No wonder everyone's swarming the swag table.)_
 
 And over the next semester, there's many more high school hackathons in stall across the globe:
 
@@ -73,37 +74,39 @@ And over the next semester, there's many more high school hackathons in stall ac
 - [Lion City Hacks](https://lioncityhacks.com/) ~ December 3 in Singapore
 - [HackOC](https://hackoc.org/) ~ Date TBC in Orange County, CA
 
-We keep an directory of upcoming hackathons at https://hackathons.hackclub.com, strongly recommend it!
+We keep an directory of upcoming hackathons at [hackathons.hackclub.com](https://hackathons.hackclub.com), strongly recommend it!
 
-What's amazing is how us Hack Clubbers are working together in #hackathon-organizers to create all these magical hackathons. In that Slack channel we talk about raising money, prizes, food, swag & more! As someone organising my own hackathon, it's means a lot to have a group of friends there to help me along the way.
+What's amazing is how us Hack Clubbers are working together in [#hackathon-organizers](https://hackclub.slack.com/archives/C03QSGGCJN7) to create all these magical hackathons. In that Slack channel we talk about raising money, prizes, food, swag & more! As someone organising my own hackathon, it's means a lot to have a group of friends there to help me along the way.
 
-@tmb, a Hack Club alum who's cold emailing made the Elon AMA possible, has been kindly helping edit sponsor's pitches for example:
+@tmb, a Hack Club alum who's cold emailing made the [Elon Musk AMA](https://www.youtube.com/watch?v=riru9OzScwk) possible, has been kindly helping edit sponsor's pitches for example:
 
 <img width="420" alt="Screenshot 2022-09-24 at 10 41 46 PM" src="https://user-images.githubusercontent.com/39828164/192104131-37b2257e-4bf3-40c3-893d-9200bd732005.png">
 
-Everyone's been using Hack Club Bank to manage their hackathon's finances. What's great about Bank is that it's got an API, that's meant we've seen a fair few ships using the Bank API in cool contexts! Reese & Maggie have each managed to get Hack Club Bank into their terminal through cURL & on their phone's homepage respectivly:
+Everyone's been using [Hack Club Bank](https://hackclub.com/bank) to manage their hackathon's finances. What's great about Bank is that it's got [an API](https://bank.hackclub.com/docs/api/v3), that's meant we've seen a fair few ships using the Bank API in cool contexts! @reesericci & @maggie have each managed to get Hack Club Bank [into their terminal through cURL](https://hackclub.slack.com/archives/C0M8PUPU6/p1662749672495989) & [on their phone's homepage](https://hackclub.slack.com/archives/C0M8PUPU6/p1662531002368819) respectivly:
 
 | | |
 |---|---|
 |<img src="https://user-images.githubusercontent.com/39828164/192105080-50bde8ca-c9fc-4d75-8024-6f148474f873.png" width="400px">|<img width="370" alt="image (2)" src="https://user-images.githubusercontent.com/39828164/192105264-1afbb560-4cae-40d3-b435-d9ed686e8999.png">|
 
-On a related note, just last week, we shared [🎬 The Assemble Documentary](): a film on Assemble to help answer the question “what is a hackathon?“. It showcases the magical experience of attending a hackathon, and our hope is that it can help organizers share what’s in store for attendees at their hackathons.
+On a related note, just last week, we shared **[🎬 The Assemble Documentary](https://www.youtube.com/watch?v=PnK4gzO6S3Q)**: a film on Assemble to help answer the question “what is a hackathon?“. It showcases the magical experience of attending a hackathon, and our hope is that it can help organizers share what’s in store for attendees at their hackathons.
 
-<img src="https://user-images.githubusercontent.com/39828164/192104361-fb7b2dd1-14d5-4297-9aa0-b37cd96dc912.jpg" width="400px" />
+<a href="https://www.youtube.com/watch?v=PnK4gzO6S3Q">
+  <img src="https://user-images.githubusercontent.com/39828164/192104361-fb7b2dd1-14d5-4297-9aa0-b37cd96dc912.jpg" width="400px" />
+</a>
 
 So that's what's been happening this month! Looking to escape school & get more involved? Here a couple of great ways to get more involved in the community at the moment:
 
-- 👋 Join a Hack Night call! Every Saturday evening (in America, for me its Sunday morning!), we all jump on a Zoom call to hang out and code together. 
+- 👋 Join a [Hack Night](https://hackclub.com/night/) call! Every Saturday evening (in America, for me its Sunday morning!), we all jump on a Zoom call to hang out and code together. 
 
-- 🌈 Organise a hackathon using Hack Club Bank, with the help of fellow organisers in `#hackathon-organizers` and with one of our $500 high-school hackathon grants. 
+- 🌈 Organise a hackathon using [Hack Club Bank](https://hackclub.com/bank), with the help of fellow organisers in [#hackathon-organizers](https://hackclub.slack.com/archives/C03QSGGCJN7) and with one of [our $500 high-school hackathon grants](https://hackclub.com/hackathons/grant). 
 
 - 🎒 Bring together of friends together & bring the hack to your school by starting a club: https://apply.hackclub.com!
 
-- 🍃 Procasinate by playing games in Sprig Gallery, or, even better, "productivly procasinate" by making a Sprig game.
+- 🍃 Procasinate by playing games in [Sprig Gallery](https://sprig.hackclub.com/gallery), or, even better, "productivly procasinate" by [making a Sprig game](https://editor.sprig.hackclub.com/).
 
-- 🔥 Start a streak on Scrapbook. (Personally, I've just started a new streak on mine as I learn how to use RedwoodJS!)
+- 🔥 Start a streak on [Scrapbook](https://scrapbook.hackclub.com). (Personally, I've just started [a new streak on mine](https://scrapbook.hackclub.com/sampoder) as I learn how to use RedwoodJS!)
 
-Thanks for taking the time to read this email! I'll leave you with this teaser from @Ramiz & @mark_allen in `#amas`. (Keep your eye on Slack for more info in the coming weeks!)
+Thanks for taking the time to read this email! I'll leave you with this teaser from @Ramiz & @mark_allen in [#amas](https://hackclub.slack.com/archives/C03QPB0SU3V). (Keep your eye on Slack for more info in the coming weeks!)
 
 <img width="400" alt="Screenshot 2022-09-24 at 11 47 40 AM" src="https://user-images.githubusercontent.com/39828164/192078745-f20aeb54-b6c1-4fab-bd40-d2d31bb97bdf.png">
 
@@ -113,7 +116,7 @@ Sam
 
 (like in all Hack Club emails, we respect your privacy and don't track whether you open this email or click links in it. if you'd like to unsubscribe, click here)
 
-PS: check out some of this incredible art using Stable Diffusion! @celeste shipped https://github.com/hackclub/simple-stable-diffusion to help folks in the community get started with Stable Diffusion, it's a Colab notebook for getting Stable Diffusion running in <10 minutes.
+PS: check out some of this incredible art using [Stable Diffusion](https://stability.ai/blog/stable-diffusion-announcement)! @celeste shipped [github.com/hackclub/simple-stable-diffusion](https://github.com/hackclub/simple-stable-diffusion) to help folks in the community get started with Stable Diffusion, it's a Colab notebook for getting Stable Diffusion running in <10 minutes.
 
 <img src="https://user-images.githubusercontent.com/39828164/192107881-0ef72008-5594-4488-8cf6-2e28332fb69b.png" width="400px" />
 <img src="https://user-images.githubusercontent.com/39828164/192107883-cd022349-d53b-4cd8-8d3a-25aa28c27d79.png" width="400px" />
