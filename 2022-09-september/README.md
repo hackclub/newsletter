@@ -82,11 +82,6 @@ What's amazing is how us Hack Clubbers are working together in [#hackathon-organ
 
 <img width="420" alt="Screenshot 2022-09-24 at 10 41 46 PM" src="https://user-images.githubusercontent.com/39828164/192104131-37b2257e-4bf3-40c3-893d-9200bd732005.png">
 
-Everyone's been using [Hack Club Bank](https://hackclub.com/bank) to manage their hackathon's finances. What's great about Bank is that it's got [an API](https://bank.hackclub.com/docs/api/v3), that's meant we've seen a fair few ships using the Bank API in cool contexts! @reesericci & @maggie have each managed to get Hack Club Bank [into their terminal through cURL](https://hackclub.slack.com/archives/C0M8PUPU6/p1662749672495989) & [on their phone's homepage](https://hackclub.slack.com/archives/C0M8PUPU6/p1662531002368819) respectively:
-
-| | |
-|---|---|
-|<img src="https://user-images.githubusercontent.com/39828164/192105080-50bde8ca-c9fc-4d75-8024-6f148474f873.png" width="400px">|<img width="370" alt="image (2)" src="https://user-images.githubusercontent.com/39828164/192105264-1afbb560-4cae-40d3-b435-d9ed686e8999.png">|
 
 On a related note, just last week, we shared **[🎬 The Assemble Documentary](https://www.youtube.com/watch?v=PnK4gzO6S3Q)**: a film on Assemble to help answer the question “what is a hackathon?“. It showcases the magical experience of attending a hackathon, and our hope is that it can help organisers share what’s in store for attendees at their hackathons.
 
