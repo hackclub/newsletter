@@ -36,13 +36,13 @@ The big news of the month from HQ was the release of [Sprig](https://sprig.hackc
 
 <img src="https://sprig.hackclub.com/stories-tiny/sprig-front.jpeg" width="600px" />
 
-Want one? (I certainly do!) You can get a Sprig in 3 steps:
+Want one? (I certainly do!) The steps to getting a Sprig are:
 
-:video_game: Build a Sprig game in [the online JavaScript game editor](https://editor.sprig.hackclub.com).
-
-🔀 Make a pull request to add your game to the Sprig gallery in [the GitHub repository](https://github.com/hackclub/sprig)
-
-:mailbox: Once your PR is merged, get a Sprig kit in your mailbox
+> :video_game: Build a Sprig game in [the online JavaScript game editor](https://editor.sprig.hackclub.com).
+> 
+> 🔀 Make a pull request to add your game to the Sprig gallery in [the GitHub repository](https://github.com/hackclub/sprig)
+> 
+> :mailbox: Once your PR is merged, get a Sprig kit in your mailbox
 
 It's been so special seeing the Hack Club community banding together to create games on Sprig. On our recent Sprig Jam, I tried my hand at building my own game called [The Reactor](https://editor.sprig.hackclub.com/?file=https://raw.githubusercontent.com/hackclub/sprig/main/games/reactor.js). Everyone in [#sprig](https://hackclub.slack.com/archives/C02UN35M7LG) was so wonderfully kind & helpful as I made my way through the process. 
 
