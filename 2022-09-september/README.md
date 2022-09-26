@@ -105,7 +105,7 @@ Thanks for taking the time to read this email! I'll leave you with this teaser f
 
 <img width="400" alt="Screenshot 2022-09-24 at 11 47 40 AM" src="https://user-images.githubusercontent.com/39828164/192078745-f20aeb54-b6c1-4fab-bd40-d2d31bb97bdf.png">
 
-With gratitude,
+Over & out,
 
 Sam
 
