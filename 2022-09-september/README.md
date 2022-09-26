@@ -112,7 +112,6 @@ Sam
 (like in all Hack Club emails, we respect your privacy and don't track whether you open this email or click links in it. if you'd like to unsubscribe, click here)
 
 PS: check out some of this incredible art using [Stable Diffusion](https://stability.ai/blog/stable-diffusion-announcement)! @celeste shipped [github.com/hackclub/simple-stable-diffusion](https://github.com/hackclub/simple-stable-diffusion) to help folks in the community get started with Stable Diffusion, it's a Colab notebook for getting Stable Diffusion running in <10 minutes.
-
-<img src="https://user-images.githubusercontent.com/39828164/192107881-0ef72008-5594-4488-8cf6-2e28332fb69b.png" width="400px" />
-<img src="https://user-images.githubusercontent.com/39828164/192107883-cd022349-d53b-4cd8-8d3a-25aa28c27d79.png" width="400px" />
-<img src="https://user-images.githubusercontent.com/39828164/192107886-d28d5bae-c77d-4059-a180-f4c3c3933c2b.png" width="400px" />
+| | | |
+|---|---|---|
+| <img src="https://user-images.githubusercontent.com/39828164/192107881-0ef72008-5594-4488-8cf6-2e28332fb69b.png" height="300px" /> | <img src="https://user-images.githubusercontent.com/39828164/192107883-cd022349-d53b-4cd8-8d3a-25aa28c27d79.png" height="300px" /> | <img src="https://user-images.githubusercontent.com/39828164/192107886-d28d5bae-c77d-4059-a180-f4c3c3933c2b.png" height="300px" /> |
