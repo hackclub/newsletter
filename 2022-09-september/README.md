@@ -96,7 +96,7 @@ So that's what's been happening this month! Looking to escape school & get more 
 
 - 🍃 Procrastinate by playing games in the [Sprig Gallery](https://sprig.hackclub.com/gallery), or, even better, "productively procrastinate" by [making a Sprig game](https://editor.sprig.hackclub.com/).
 
-- 🔥 Start a streak on [Scrapbook](https://scrapbook.hackclub.com). (Personally, I've just started [a new streak on mine](https://scrapbook.hackclub.com/sampoder) as I learn how to use RedwoodJS!)
+- 🔥 Start a streak on [Scrapbook](https://scrapbook.hackclub.com). (Personally, I've just started posting about  learning Redwood [on mine](https://scrapbook.hackclub.com/sampoder)!)
 
 Thanks for taking the time to read this email! I'll leave you with this teaser from <img src="https://ca.slack-edge.com/T0266FRGM-U02GTR6HV2B-32a0117d1ff6-48" width="16"> Ramiz & <img src="https://ca.slack-edge.com/T0266FRGM-U03Q20XM953-91ae3b0d0243-72" width="16"> Mark in [#amas](https://hackclub.slack.com/archives/C03QPB0SU3V). (Keep your eye on Slack for more info in the coming weeks!)
 
