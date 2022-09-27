@@ -2,7 +2,7 @@
 
 Hey friends!
 
-<img src="https://ca.slack-edge.com/T0266FRGM-USNPNJXNX-1194588c3884-48" width="16"> [Sam](https://github.com/sampoder), Hack Clubber from Singapore, here. It's been a busy couple of weeks in the Hack Club community, I wanted to email all of you with a rundown of what your fellow Hack Clubbers have been up to this past month! 
+<img src="https://ca.slack-edge.com/T0266FRGM-USNPNJXNX-1194588c3884-48" width="16"> [Sam](https://github.com/sampoder), Hack Clubber from Singapore, here. It's been a busy couple of weeks in the Hack Club community; I wanted to email all of you with a rundown of what your fellow Hack Clubbers have been up to this past month! 
 
 _(FYI: you're receiving this email because you're in [the Hack Club Slack](https://hackclub.com/slack).)_
 
