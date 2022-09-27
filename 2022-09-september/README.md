@@ -92,7 +92,7 @@ So that's what's been happening this month! Looking to escape school & get more 
 
 - 🌈 Organise a hackathon using [Hack Club Bank](https://hackclub.com/bank), with the help of fellow organisers in [#hackathon-organizers](https://hackclub.slack.com/archives/C03QSGGCJN7) and with one of [our $500 high-school hackathon grants](https://hackclub.com/hackathons/grant). 
 
-- 🎒 Bring together of friends together & bring the hack to your school by starting a club: https://apply.hackclub.com!
+- 🎒 Bring together a group of friends & bring the hack to your school by starting a club: https://apply.hackclub.com!
 
 - 🍃 Procrastinate by playing games in the [Sprig Gallery](https://sprig.hackclub.com/gallery), or, even better, "productively procrastinate" by [making a Sprig game](https://editor.sprig.hackclub.com/).
 
