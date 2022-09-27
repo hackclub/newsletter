@@ -75,7 +75,7 @@ We keep an directory of upcoming high school hackathons at [hackathons.hackclub.
 
 It's been amazing seeing Hack Clubbers are working together in [#hackathon-organizers](https://hackclub.slack.com/archives/C03QSGGCJN7) to create all these magical hackathons. In that Slack channel we talk about raising money, prizes, food, swag & more! As someone organising my own hackathon, it's means a lot to have a group of friends there to help me along the way.
 
-<img src="https://ca.slack-edge.com/T0266FRGM-UBN4ED8MC-293374a1dd8b-48" width="16"> Theo, a Hack Club alum who's cold emailing made the [Elon Musk AMA](https://www.youtube.com/watch?v=riru9OzScwk) possible, has been kindly helping edit sponsor's pitches for example:
+<img src="https://ca.slack-edge.com/T0266FRGM-UBN4ED8MC-293374a1dd8b-48" width="16"> Theo, a Hack Club alum whose cold emailing made the [Elon Musk AMA](https://www.youtube.com/watch?v=riru9OzScwk) possible, has been kindly helping edit sponsor's pitches for example:
 
 <img width="420" alt="Screenshot 2022-09-24 at 10 41 46 PM" src="https://user-images.githubusercontent.com/39828164/192104131-37b2257e-4bf3-40c3-893d-9200bd732005.png">
 
