@@ -18,7 +18,7 @@ To prepare for the new school year, clubs have been busy shipping new websites f
 
 <img width="600" alt="Screenshot 2022-09-24 at 10 25 19 PM" src="https://user-images.githubusercontent.com/39828164/192103277-2bea558a-186d-4340-bf6b-cecf7d5419a5.png">
 
-[CCHS Hack Club (Chicopee, MS)](https://cchshackclub.hackclub.com) - website built by @jc! That Julia Fractal (the generative art on the right) is stunning 🤩. We have [a workshop](https://workshops.hackclub.com/julia_fractals/) that you can use to make a similar piece, if you're curious. @jc has open sourced [her approach here](https://github.com/cchshackclub/website/blob/main/index.js), it's a super interesting piece of code to read!
+[CCHS Hack Club (Chicopee, MA)](https://cchshackclub.hackclub.com) - website built by @jc! That Julia Fractal (the generative art on the right) is stunning 🤩. We have [a workshop](https://workshops.hackclub.com/julia_fractals/) that you can use to make a similar piece, if you're curious. @jc has open sourced [her approach here](https://github.com/cchshackclub/website/blob/main/index.js), it's a super interesting piece of code to read!
 
 <img width="600" alt="Screenshot 2022-09-24 at 10 14 17 PM" src="https://user-images.githubusercontent.com/39828164/192102755-b90719ac-866f-4b57-b294-a2f077ea4741.png">
 
