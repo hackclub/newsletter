@@ -94,7 +94,7 @@ So that's what's been happening this month! Looking to escape school & get more 
 
 - 🎒 Bring together of friends together & bring the hack to your school by starting a club: https://apply.hackclub.com!
 
-- 🍃 Procrastinate by playing games in [Sprig Gallery](https://sprig.hackclub.com/gallery), or, even better, "productively procrastinate" by [making a Sprig game](https://editor.sprig.hackclub.com/).
+- 🍃 Procrastinate by playing games in the [Sprig Gallery](https://sprig.hackclub.com/gallery), or, even better, "productively procrastinate" by [making a Sprig game](https://editor.sprig.hackclub.com/).
 
 - 🔥 Start a streak on [Scrapbook](https://scrapbook.hackclub.com). (Personally, I've just started [a new streak on mine](https://scrapbook.hackclub.com/sampoder) as I learn how to use RedwoodJS!)
 
