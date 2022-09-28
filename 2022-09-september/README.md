@@ -69,7 +69,7 @@ And over the next semester, there's many more high school hackathons in stall ac
 - [Hack Orlando](https://hackorlando.org/) ~ October 29 in Orlando, FL
 - [poolesville_hacks 2](https://poolesvillehacks.tech/) ~ November 18-20 in Poolesville, MD
 - [Lion City Hacks](https://lioncityhacks.com/) ~ December 3 in Singapore
-- [HackOC](https://hackoc.org/) ~ Date TBC in Orange County, CA
+- [HackOC](https://hackoc.org/) ~ Date TBD in Orange County, CA
 
 We keep a directory of upcoming high school hackathons at [hackathons.hackclub.com](https://hackathons.hackclub.com); strongly recommend it!
 
