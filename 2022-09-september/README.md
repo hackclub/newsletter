@@ -43,7 +43,7 @@ Any teenager can get a console by:
 
 It's been so special seeing the Hack Club community banding together to create games. On our recent Sprig Jam, I tried my hand at building my own game called [The Reactor](https://editor.sprig.hackclub.com/?file=https://raw.githubusercontent.com/hackclub/sprig/main/games/reactor.js). Everyone in [#sprig](https://hackclub.slack.com/archives/C02UN35M7LG) was so wonderfully kind & helpful as I made my way through the process. 
 
-The games that everyone's been shipping & submitting are incredible, here's some of my favourites from [the Gallery](https://sprig.hackclub.com/gallery):
+The games that everyone's been shipping & submitting are incredible; here are some of my favourites from [the Gallery](https://sprig.hackclub.com/gallery):
 
 | | | |
 |---|---|---|
