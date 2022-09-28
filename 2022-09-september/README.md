@@ -71,7 +71,7 @@ And over the next semester, there's many more high school hackathons in stall ac
 - [Lion City Hacks](https://lioncityhacks.com/) ~ December 3 in Singapore
 - [HackOC](https://hackoc.org/) ~ Date TBC in Orange County, CA
 
-We keep an directory of upcoming high school hackathons at [hackathons.hackclub.com](https://hackathons.hackclub.com), strongly recommend it!
+We keep a directory of upcoming high school hackathons at [hackathons.hackclub.com](https://hackathons.hackclub.com); strongly recommend it!
 
 It's been amazing seeing Hack Clubbers are working together in [#hackathon-organizers](https://hackclub.slack.com/archives/C03QSGGCJN7) to create all these magical hackathons. In that Slack channel we talk about raising money, prizes, food, swag & more! As someone organising my own hackathon, it's means a lot to have a group of friends there to help me along the way.
 
