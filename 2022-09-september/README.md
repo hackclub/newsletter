@@ -4,7 +4,7 @@ Hey friends!
 
 <img src="https://ca.slack-edge.com/T0266FRGM-USNPNJXNX-1194588c3884-48" width="16"> [Sam](https://github.com/sampoder), Hack Clubber from Singapore, here. 
 
-This summer, 183 Hack Clubbers came to SF for 42 hour-hackathon- see our new documentary [here](https://www.youtube.com/watch?v=PnK4gzO6S3Q).
+This summer, 183 Hack Clubbers came to SF for a 42-hour hackathon- see our new documentary [here](https://www.youtube.com/watch?v=PnK4gzO6S3Q).
 
 The last few weeks have been pretty busy at Hack Club, and this is a rundown of what your fellow Hack Clubbers have been up to lately.
 
