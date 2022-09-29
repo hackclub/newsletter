@@ -18,7 +18,7 @@ Incredible Hack Club meetings are happening in schools across the world this mon
 
 My club in Singapore meets Monday’s during lunch, and in October we’ll be doing -- @sam what will y'all be doing?
 
-You can build your own website for your club. Here are a couple of my favourites:
+To prepare for the new school year, clubs have been busy shipping new websites to pitch their club to prospective members. Here are a couple of my favourites:
 
 <img width="600" alt="Screenshot 2022-09-24 at 10 25 19 PM" src="https://user-images.githubusercontent.com/39828164/192103277-2bea558a-186d-4340-bf6b-cecf7d5419a5.png">
 
