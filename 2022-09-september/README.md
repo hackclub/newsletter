@@ -12,7 +12,7 @@ _(FYI: you're receiving this email because you're in [the Hack Club Slack](https
 
 ## 🎒 Hacking The Back To School
 
-Incredible Hack Club meetings are happening in schools across the world this month, like <img src="https://ca.slack-edge.com/T0266FRGM-U01R8RSGYUV-a44d02c59ce5-48" width="16"> [Linkai](https://linkaiwu.com/) and <img src="https://ca.slack-edge.com/T0266FRGM-U01SP5VFYCR-b88d249e662f-48" width="16"> [Tinu](https://tinu.tech/) had more than a dozen friends at their Silver Spring Maryland club this September.
+Incredible Hack Club meetings are happening in schools across the world this month, like <img src="https://ca.slack-edge.com/T0266FRGM-U01R8RSGYUV-a44d02c59ce5-48" width="16"> [Linkai](https://linkaiwu.com/) and <img src="https://ca.slack-edge.com/T0266FRGM-U01SP5VFYCR-b88d249e662f-48" width="16"> [Tinu](https://tinu.tech/) had more than a dozen friends at their Silver Spring, Maryland club this September.
 
 <img src="https://user-images.githubusercontent.com/39828164/192078880-2cbc6379-c30b-48e9-8ad3-67fb687069fa.jpg" width="300px" />
 
