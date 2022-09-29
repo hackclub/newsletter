@@ -98,7 +98,7 @@ So that's what's been happening this month! Looking to escape school & get more 
 
 - 🔥 Start a streak on [Scrapbook](https://scrapbook.hackclub.com). (Personally, I've just started posting about learning Redwood [on mine](https://scrapbook.hackclub.com/sampoder)!)
 
-Thanks for taking the time to read this email! I'll leave you with this teaser from <img src="https://ca.slack-edge.com/T0266FRGM-U02GTR6HV2B-32a0117d1ff6-48" width="16"> [Ramiz](https://philonoist.co/) & <img src="https://ca.slack-edge.com/T0266FRGM-U03Q20XM953-91ae3b0d0243-72" width="16"> Mark in [#amas](https://hackclub.slack.com/archives/C03QPB0SU3V). (Keep your eye on Slack for more info in the coming weeks!)
+Thanks for taking the time to read this email! I'll leave you with this teaser from <img src="https://ca.slack-edge.com/T0266FRGM-U02GTR6HV2B-32a0117d1ff6-48" width="16"> [Ramiz](https://philonoist.co/) & <img src="https://ca.slack-edge.com/T0266FRGM-U03Q20XM953-91ae3b0d0243-72" width="16"> [Mark](https://hackclub.slack.com/team/U03Q20XM953) in [#amas](https://hackclub.slack.com/archives/C03QPB0SU3V). (Keep your eye on Slack for more info in the coming weeks!)
 
 <img width="400" alt="Screenshot 2022-09-24 at 11 47 40 AM" src="https://user-images.githubusercontent.com/39828164/192078745-f20aeb54-b6c1-4fab-bd40-d2d31bb97bdf.png">
 
