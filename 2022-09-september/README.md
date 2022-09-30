@@ -2,11 +2,13 @@
 
 Hey friends!
 
-<img src="https://ca.slack-edge.com/T0266FRGM-USNPNJXNX-1194588c3884-48" width="16"> [Sam](https://github.com/sampoder), Hack Clubber from Singapore, here. 
+<img src="https://ca.slack-edge.com/T0266FRGM-USNPNJXNX-1194588c3884-48" width="16"> [Sam](https://github.com/sampoder), Hack Clubber from Singapore, here. The last few weeks have been pretty busy at Hack Club, and this is a rundown of what your fellow Hack Clubbers have been up to lately.
 
-This summer, 183 Hack Clubbers came to SF for a 42-hour hackathon- see our new documentary [here](https://www.youtube.com/watch?v=PnK4gzO6S3Q).
+To start, last week, we shared **[🎬 The Assemble Documentary](https://www.youtube.com/watch?v=PnK4gzO6S3Q)**: a film on Assemble to help answer the question _"what is a hackathon?"_. It showcases the magical experience of attending a hackathon, and our hope is that it can help organisers share what’s in store for attendees at their hackathons.
 
-The last few weeks have been pretty busy at Hack Club, and this is a rundown of what your fellow Hack Clubbers have been up to lately.
+<a href="https://www.youtube.com/watch?v=PnK4gzO6S3Q">
+  <img src="https://user-images.githubusercontent.com/39828164/192104361-fb7b2dd1-14d5-4297-9aa0-b37cd96dc912.jpg" width="400px" />
+</a>
 
 _(FYI: you're receiving this email because you're in [the Hack Club Slack](https://hackclub.com/slack).)_
 
