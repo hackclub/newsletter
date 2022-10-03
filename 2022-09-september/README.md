@@ -24,15 +24,15 @@ To prepare for the new school year, clubs have been busy shipping new websites t
 
 <img width="600" alt="Screenshot 2022-09-24 at 10 25 19 PM" src="https://user-images.githubusercontent.com/39828164/192103277-2bea558a-186d-4340-bf6b-cecf7d5419a5.png">
 
-[CCHS Hack Club (Chicopee, MA)](https://cchshackclub.hackclub.com) - website built by <img src="https://ca.slack-edge.com/T0266FRGM-U03MNFDRSGJ-c13835f1533f-48" width="16"> jc! That Julia Fractal (the generative art on the right) is stunning 🤩. We have [a workshop](https://workshops.hackclub.com/julia_fractals/) that you can use to make a similar piece, if you're curious. <img src="https://ca.slack-edge.com/T0266FRGM-U03MNFDRSGJ-c13835f1533f-48" width="16"> jc has open sourced [her approach here](https://github.com/cchshackclub/website/blob/main/index.js), it's a super interesting piece of code to read!
+[CCHS Hack Club (Chicopee, MA)](https://cchshackclub.hackclub.com) - website built by <img src="https://ca.slack-edge.com/T0266FRGM-U03MNFDRSGJ-c13835f1533f-48" width="16"> [Jianmin](https://www.jianminchen.com/)! That Julia Fractal (the generative art on the right) is stunning 🤩. We have [a workshop](https://workshops.hackclub.com/julia_fractals/) that you can use to make a similar piece, if you're curious. <img src="https://ca.slack-edge.com/T0266FRGM-U03MNFDRSGJ-c13835f1533f-48" width="16"> [Jianmin](https://www.jianminchen.com/) has open sourced [her approach here](https://github.com/cchshackclub/website/blob/main/index.js), it's a super interesting piece of code to read!
 
 <img width="600" alt="Screenshot 2022-09-24 at 10 14 17 PM" src="https://user-images.githubusercontent.com/39828164/192102755-b90719ac-866f-4b57-b294-a2f077ea4741.png">
 
-[Edison Hack Club (Queens, NY)](https://edisonhack.club) - website built by <img src="https://ca.slack-edge.com/T0266FRGM-U03MMGVPMFE-80f628510456-192" width="16"> Kyle! He hacked it together just in time for the school year. Interestingly, their logo was generated using DALL-E. I agree with <img src="https://ca.slack-edge.com/T0266FRGM-U02KYLBLKR9-ad26e488d793-48" width="16"> Celeste, who commented _"i like that — afaict — one of the first things i see upon opening the site is members’ projects"_ in response to the #ship, that's awesome!	
+[Edison Hack Club (Queens, NY)](https://edisonhack.club) - website built by <img src="https://ca.slack-edge.com/T0266FRGM-U03MMGVPMFE-80f628510456-192" width="16"> [Kyle](https://kyleliao.tech/)! He hacked it together just in time for the school year. Interestingly, their logo was generated using DALL-E. I agree with <img src="https://ca.slack-edge.com/T0266FRGM-U02KYLBLKR9-ad26e488d793-48" width="16"> [Celeste](https://celeste.exposed/), who commented _"i like that — afaict — one of the first things i see upon opening the site is members’ projects"_ in response to the #ship, that's awesome!	
 
 <img width="600" alt="Screenshot 2022-09-24 at 10 21 24 PM" src="https://user-images.githubusercontent.com/39828164/192103074-d587bb59-9110-4371-b0cb-8be2cc514644.png">
 
-[Pomperaug Hack Club (Southbury, CT)](https://pomperaug.hackclub.com) - website built by <img src="https://ca.slack-edge.com/T0266FRGM-U041MC28L3B-7392596693bc-48" width="16"> Neesh! I really love how they've used the ["Welcome to Hack Club" video](https://www.youtube.com/watch?v=-sxRdKtKNa0) on there. Their site also has just the right amount of sarcasm, nice one Neesh.
+[Pomperaug Hack Club (Southbury, CT)](https://pomperaug.hackclub.com) - website built by <img src="https://ca.slack-edge.com/T0266FRGM-U041MC28L3B-7392596693bc-48" width="16"> [Neesh](https://neesh.ilioslabs.dev/)! I really love how they've used the ["Welcome to Hack Club" video](https://www.youtube.com/watch?v=-sxRdKtKNa0) on there. Their site also has just the right amount of sarcasm, nice one [Neesh](https://neesh.ilioslabs.dev/).
 
 If you've built a website for your club (or just built anything in general!) recently, you should [#ship](https://hackclub.slack.com/archives/C0M8PUPU6) it on [Slack](https://hackclub.com/slack). It's always so much fun seeing what fellow Hack Clubbers have made!
 
@@ -60,11 +60,11 @@ Sprigs are going to start shipping in October; I'm looking forward to receiving 
 
 ## ✨ The Return of IRL Hackathons 
 
-What excites me the most in Hack Club right now is the return of IRL [high-school hackathons](https://hackclub.com/hackathons)! Hackathons are a big part of how I got into programming and seeing them return in-person is incredible. Last week, for example, <img src="https://ca.slack-edge.com/T0266FRGM-U026XSMKEDC-a471d7e9c871-512" width="16"> Maggie hosted Leland Hacks:
+What excites me the most in Hack Club right now is the return of IRL [high-school hackathons](https://hackclub.com/hackathons)! Hackathons are a big part of how I got into programming and seeing them return in-person is incredible. Last week, for example, <img src="https://ca.slack-edge.com/T0266FRGM-U026XSMKEDC-a471d7e9c871-512" width="16"> [Maggie](https://maggieliu.dev/) hosted Leland Hacks:
 
 <img src="https://user-images.githubusercontent.com/39828164/192079156-7075dcec-67d2-4db2-ab7c-f4bb9151edcd.jpg" width="600px" />
 
-_(<img src="https://ca.slack-edge.com/T0266FRGM-U026XSMKEDC-a471d7e9c871-512" width="16"> Maggie made some of [the most incredible swag designs](https://scrapbook.hackclub.com/maggie) for Leland Hacks! No wonder everyone's swarming the swag table.)_
+_(<img src="https://ca.slack-edge.com/T0266FRGM-U026XSMKEDC-a471d7e9c871-512" width="16"> [Maggie](https://maggieliu.dev/) made some of [the most incredible swag designs](https://scrapbook.hackclub.com/maggie) for Leland Hacks! No wonder everyone's swarming the swag table.)_
 
 And over the next semester, there's many more high school hackathons in stall across the globe:
 
@@ -81,7 +81,7 @@ We keep a directory of upcoming high school hackathons at [hackathons.hackclub.c
 
 It's been amazing seeing Hack Clubbers working together in [#hackathon-organizers](https://hackclub.slack.com/archives/C03QSGGCJN7) to create all these magical hackathons. In that Slack channel we talk about raising money, prizes, food, swag & more! As someone organising my own hackathon, it means a lot to have a group of friends there to help me along the way.
 
-<img src="https://ca.slack-edge.com/T0266FRGM-UBN4ED8MC-293374a1dd8b-48" width="16"> Theo, a Hack Club alum whose cold emailing made the [Elon Musk AMA](https://www.youtube.com/watch?v=riru9OzScwk) possible, has been kindly helping edit sponsor's pitches:
+<img src="https://ca.slack-edge.com/T0266FRGM-UBN4ED8MC-293374a1dd8b-48" width="16"> [Theo](https://tmb.sh/), a Hack Club alum whose cold emailing made the [Elon Musk AMA](https://www.youtube.com/watch?v=riru9OzScwk) possible, has been kindly helping edit sponsor's pitches:
 
 <img width="420" alt="Screenshot 2022-09-24 at 10 41 46 PM" src="https://user-images.githubusercontent.com/39828164/192104131-37b2257e-4bf3-40c3-893d-9200bd732005.png">
 
@@ -104,7 +104,7 @@ So that's what's been happening this month! Looking to escape school & get more 
 
 - 🔥 Start a streak on [Scrapbook](https://scrapbook.hackclub.com). (Personally, I've just started posting about learning Redwood [on mine](https://scrapbook.hackclub.com/sampoder)!)
 
-Thanks for taking the time to read this email! I'll leave you with this teaser from <img src="https://ca.slack-edge.com/T0266FRGM-U02GTR6HV2B-32a0117d1ff6-48" width="16"> Ramiz & <img src="https://ca.slack-edge.com/T0266FRGM-U03Q20XM953-91ae3b0d0243-72" width="16"> Mark in [#amas](https://hackclub.slack.com/archives/C03QPB0SU3V). (Keep your eye on Slack for more info in the coming weeks!)
+Thanks for taking the time to read this email! I'll leave you with this teaser from <img src="https://ca.slack-edge.com/T0266FRGM-U02GTR6HV2B-32a0117d1ff6-48" width="16"> [Ramiz](https://philonoist.co/) & <img src="https://ca.slack-edge.com/T0266FRGM-U03Q20XM953-91ae3b0d0243-72" width="16"> [Mark](https://hackclub.slack.com/team/U03Q20XM953) in [#amas](https://hackclub.slack.com/archives/C03QPB0SU3V). (Keep your eye on Slack for more info in the coming weeks!)
 
 <img width="400" alt="Screenshot 2022-09-24 at 11 47 40 AM" src="https://user-images.githubusercontent.com/39828164/192078745-f20aeb54-b6c1-4fab-bd40-d2d31bb97bdf.png">
 
@@ -113,7 +113,7 @@ Sam
 
 (like in all Hack Club emails, we respect your privacy and don't track whether you open this email or click links in it. if you'd like to unsubscribe, click here)
 
-PS: check out some of this incredible art using [Stable Diffusion](https://stability.ai/blog/stable-diffusion-announcement)! <img src="https://ca.slack-edge.com/T0266FRGM-U02KYLBLKR9-ad26e488d793-48" width="16"> Celeste shipped [github.com/hackclub/simple-stable-diffusion](https://github.com/hackclub/simple-stable-diffusion) to help folks in the community get started with Stable Diffusion, it's a Colab notebook for getting Stable Diffusion running in <10 minutes.
+PS: check out some of this incredible art using [Stable Diffusion](https://stability.ai/blog/stable-diffusion-announcement)! <img src="https://ca.slack-edge.com/T0266FRGM-U02KYLBLKR9-ad26e488d793-48" width="16"> [Celeste](https://celeste.exposed/) shipped [github.com/hackclub/simple-stable-diffusion](https://github.com/hackclub/simple-stable-diffusion) to help folks in the community get started with Stable Diffusion, it's a Colab notebook for getting Stable Diffusion running in <10 minutes.
 | | | |
 |---|---|---|
 | <img src="https://user-images.githubusercontent.com/39828164/192107881-0ef72008-5594-4488-8cf6-2e28332fb69b.png" height="300px" /> | <img src="https://user-images.githubusercontent.com/39828164/192107883-cd022349-d53b-4cd8-8d3a-25aa28c27d79.png" height="300px" /> | <img src="https://user-images.githubusercontent.com/39828164/192107886-d28d5bae-c77d-4059-a180-f4c3c3933c2b.png" height="300px" /> |
