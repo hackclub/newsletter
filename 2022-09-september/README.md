@@ -2,17 +2,23 @@
 
 Hey friends!
 
-<img src="https://ca.slack-edge.com/T0266FRGM-USNPNJXNX-1194588c3884-48" width="16"> [Sam](https://github.com/sampoder), Hack Clubber from Singapore, here. It's been a busy couple of weeks in the Hack Club community; I wanted to email all of you with a rundown of what your fellow Hack Clubbers have been up to this past month! 
+<img src="https://ca.slack-edge.com/T0266FRGM-USNPNJXNX-1194588c3884-48" width="16"> [Sam](https://github.com/sampoder), Hack Clubber from Singapore, here. The last few weeks have been pretty busy at Hack Club, and this is a rundown of what your fellow Hack Clubbers have been up to lately.
+
+To start, last week, we shared **[🎬 The Assemble Documentary](https://www.youtube.com/watch?v=PnK4gzO6S3Q)**: a film on Assemble to help answer the question _"what is a hackathon?"_. It showcases the magical experience of attending a hackathon, and our hope is that it can help organisers share what’s in store for attendees at their hackathons.
+
+<a href="https://www.youtube.com/watch?v=PnK4gzO6S3Q">
+  <img src="https://user-images.githubusercontent.com/39828164/192104361-fb7b2dd1-14d5-4297-9aa0-b37cd96dc912.jpg" width="400px" />
+</a>
 
 _(FYI: you're receiving this email because you're in [the Hack Club Slack](https://hackclub.com/slack).)_
 
 ## 🎒 Hacking The Back To School
 
-This month, it's been back to school for Hack Clubbers. That's meant the return of homework and late nights for many of us (_ugh._) but also some incredible club meetings, for example, here's <img src="https://ca.slack-edge.com/T0266FRGM-U01R8RSGYUV-a44d02c59ce5-48" width="16"> [Linkai](https://linkaiwu.com/) & <img src="https://ca.slack-edge.com/T0266FRGM-U01SP5VFYCR-b88d249e662f-48" width="16"> [Tinu](https://tinu.tech/)'s meeting from last week:
+Incredible Hack Club meetings are happening in schools across the world this month, like <img src="https://ca.slack-edge.com/T0266FRGM-U01R8RSGYUV-a44d02c59ce5-48" width="16"> [Linkai](https://linkaiwu.com/) and <img src="https://ca.slack-edge.com/T0266FRGM-U01SP5VFYCR-b88d249e662f-48" width="16"> [Tinu](https://tinu.tech/) had more than a dozen friends at their club in Silver Spring, Maryland this month.
 
 <img src="https://user-images.githubusercontent.com/39828164/192078880-2cbc6379-c30b-48e9-8ad3-67fb687069fa.jpg" width="300px" />
 
-What a turnout that is in Silver Spring, MD! Nice work <img src="https://ca.slack-edge.com/T0266FRGM-U01R8RSGYUV-a44d02c59ce5-48" width="16">  [Linkai](https://linkaiwu.com/) & <img src="https://ca.slack-edge.com/T0266FRGM-U01SP5VFYCR-b88d249e662f-48" width="16"> [Tinu](https://tinu.tech/)! It's fabulous seeing clubs, new & old, drawing such large crowds at their schools. My school's club is about to kick off for the year and I'm excited to get back to making something new every Monday lunch break! 
+My club in Singapore meets Monday’s during lunch, and in October we’ll be doing -- @sam what will y'all be doing?
 
 To prepare for the new school year, clubs have been busy shipping new websites to pitch their club to prospective members. Here are a couple of my favourites:
 
@@ -80,7 +86,7 @@ It's been amazing seeing Hack Clubbers working together in [#hackathon-organizer
 <img width="420" alt="Screenshot 2022-09-24 at 10 41 46 PM" src="https://user-images.githubusercontent.com/39828164/192104131-37b2257e-4bf3-40c3-893d-9200bd732005.png">
 
 
-On a related note, just last week, we shared **[🎬 The Assemble Documentary](https://www.youtube.com/watch?v=PnK4gzO6S3Q)**: a film on Assemble to help answer the question _"what is a hackathon?"_. It showcases the magical experience of attending a hackathon, and our hope is that it can help organisers share what’s in store for attendees at their hackathons.
+Once again, I hope you'll check out **[🎬 The Assemble Documentary](https://www.youtube.com/watch?v=PnK4gzO6S3Q)**: a film on Assemble to help answer the question _"what is a hackathon?"_. It showcases the magical experience of attending a hackathon, and our hope is that it can help organisers share what’s in store for attendees at their hackathons.
 
 <a href="https://www.youtube.com/watch?v=PnK4gzO6S3Q">
   <img src="https://user-images.githubusercontent.com/39828164/192104361-fb7b2dd1-14d5-4297-9aa0-b37cd96dc912.jpg" width="400px" />
