@@ -4,7 +4,7 @@ Hey friends!
 
 <img src="https://ca.slack-edge.com/T0266FRGM-USNPNJXNX-1194588c3884-48" width="16"> [Sam](https://github.com/sampoder), Hack Clubber from Singapore, here. This is a rundown of some of the amazing things your fellow Hack Clubbers have been up to since August!
 
-To start, last week, we shared the 6-minute [<img src="https://emoji.slack-edge.com/T0266FRGM/assemble/4f9465eb00175463.png" width="16"> Assemble Documentary](https://www.youtube.com/watch?v=PnK4gzO6S3Q): a film on the the 24 hour hackathon in August nearly 200 of you came to. It showcases the magical experience of attending a hackathon, and our hope is that it can help organizers share what’s in store for attendees at their hackathons – please consider checking it out!
+To start, last week, we shared the 6-minute [<img src="https://emoji.slack-edge.com/T0266FRGM/assemble/4f9465eb00175463.png" width="16"> Assemble Documentary](https://www.youtube.com/watch?v=PnK4gzO6S3Q): a film on the 42 hour hackathon in August nearly 200 of you came to. It showcases the magical experience of attending a hackathon, and our hope is that it can help organizers share what’s in store for attendees at their hackathons – please consider checking it out!
 
 <a href="https://www.youtube.com/watch?v=PnK4gzO6S3Q">
   <img src="https://user-images.githubusercontent.com/39828164/192104361-fb7b2dd1-14d5-4297-9aa0-b37cd96dc912.jpg" width="400px" />
