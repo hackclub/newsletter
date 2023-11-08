@@ -2,9 +2,9 @@
 
 Hey friends!
 
-<img src="https://ca.slack-edge.com/T0266FRGM-USNPNJXNX-1194588c3884-48" width="16"> [Sam](https://github.com/sampoder), Hack Clubber from Singapore, here. The last few weeks have been pretty busy at Hack Club, and this is a rundown of what your fellow Hack Clubbers have been up to lately.
+<img src="https://ca.slack-edge.com/T0266FRGM-USNPNJXNX-1194588c3884-48" width="16"> [Sam](https://github.com/sampoder), Hack Clubber from Singapore, here. This is a rundown of some of the amazing things your fellow Hack Clubbers have been up to since August!
 
-To start, last week, we shared **[🎬 The Assemble Documentary](https://www.youtube.com/watch?v=PnK4gzO6S3Q)**: a film on Assemble to help answer the question _"what is a hackathon?"_. It showcases the magical experience of attending a hackathon, and our hope is that it can help organisers share what’s in store for attendees at their hackathons.
+To start, last week, we shared the 6-minute [<img src="https://emoji.slack-edge.com/T0266FRGM/assemble/4f9465eb00175463.png" width="16"> Assemble Documentary](https://www.youtube.com/watch?v=PnK4gzO6S3Q): a film on the 42 hour hackathon in August nearly 200 of you came to. It showcases the magical experience of attending a hackathon, and our hope is that it can help organizers share what’s in store for attendees at their hackathons – please consider checking it out!
 
 <a href="https://www.youtube.com/watch?v=PnK4gzO6S3Q">
   <img src="https://user-images.githubusercontent.com/39828164/192104361-fb7b2dd1-14d5-4297-9aa0-b37cd96dc912.jpg" width="400px" />
@@ -18,7 +18,7 @@ Incredible Hack Club meetings are happening in schools across the world this mon
 
 <img src="https://user-images.githubusercontent.com/39828164/192078880-2cbc6379-c30b-48e9-8ad3-67fb687069fa.jpg" width="300px" />
 
-My club in Singapore meets Monday’s during lunch, and in October we’ll be doing -- @sam what will y'all be doing?
+My school's club is about to kick off for the year and I'm excited to get back to making something new every Monday lunch break!
 
 To prepare for the new school year, clubs have been busy shipping new websites to pitch their club to prospective members. Here are a couple of my favourites:
 
@@ -49,7 +49,7 @@ Any teenager can get a console by:
 
 It's been so special seeing the Hack Club community banding together to create games. On our recent Sprig Jam, I tried my hand at building my own game called [The Reactor](https://editor.sprig.hackclub.com/?file=https://raw.githubusercontent.com/hackclub/sprig/main/games/reactor.js). Everyone in [#sprig](https://hackclub.slack.com/archives/C02UN35M7LG) was so wonderfully kind & helpful as I made my way through the process. 
 
-The games that everyone's been shipping & submitting are incredible; here are some of my favourites from [the Gallery](https://sprig.hackclub.com/gallery):
+The games that everyone's been shipping & submitting are incredible; here are some of my favourites from [the Gallery](https://sprig.hackclub.com/gallery)(you can click on each one to play it):
 
 | | | |
 |---|---|---|
@@ -86,13 +86,7 @@ It's been amazing seeing Hack Clubbers working together in [#hackathon-organizer
 <img width="420" alt="Screenshot 2022-09-24 at 10 41 46 PM" src="https://user-images.githubusercontent.com/39828164/192104131-37b2257e-4bf3-40c3-893d-9200bd732005.png">
 
 
-Once again, I hope you'll check out **[🎬 The Assemble Documentary](https://www.youtube.com/watch?v=PnK4gzO6S3Q)**: a film on Assemble to help answer the question _"what is a hackathon?"_. It showcases the magical experience of attending a hackathon, and our hope is that it can help organisers share what’s in store for attendees at their hackathons.
-
-<a href="https://www.youtube.com/watch?v=PnK4gzO6S3Q">
-  <img src="https://user-images.githubusercontent.com/39828164/192104361-fb7b2dd1-14d5-4297-9aa0-b37cd96dc912.jpg" width="400px" />
-</a>
-
-So that's what's been happening this month! Looking to escape school & get more involved? Here a couple of great ways to get more involved in the community at the moment:
+So that's what's been happening this month! Looking to escape school & get more involved? _Here a couple of great ways to get more involved in the community at the moment:_
 
 - 👋 Join a [Hack Night](https://hackclub.com/night/) call! Every Saturday evening (in America, for me its Sunday morning!), we all jump on a Zoom call to hang out and code together. 
 
